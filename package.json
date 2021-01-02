@@ -1,6 +1,6 @@
 {
   "name": "minesweeperjs-engine",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "dist/minesweeperjs-engine.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +13,13 @@
     "Game"
   ],
   "author": "Adrian Flannery",
+  "homepage": "https://github.com/finnor/MinesweeperJS-Engine#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/finnor/MinesweeperJS-Engine.git"
+  },
   "license": "MIT",
-  "description": "",
+  "description": "A Javascript implementation of the rules and logic of the classic minesweeper game.",
   "devDependencies": {
     "eslint": "^7.16.0",
     "webpack": "^5.11.0",
